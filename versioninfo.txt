@@ -1,0 +1,101 @@
+=== Visual Studio Community 2017 for Mac ===
+
+Version 7.8.2 (build 1)
+Installation UUID: d047dd30-bbdd-4800-8518-1cd61d8b9392
+	GTK+ 2.24.23 (Raleigh theme)
+	Xamarin.Mac 5.0.0.0 ( / b40230c0)
+
+	Package version: 516000221
+
+=== Mono Framework MDK ===
+
+Runtime:
+	Mono 5.16.0.221 (2018-06/b63e5378e38) (64-bit)
+	Package version: 516000221
+
+=== NuGet ===
+
+Version: 4.8.0.5385
+
+=== .NET Core ===
+
+Runtime: /usr/local/share/dotnet/dotnet
+Runtime Version: 2.2.0
+SDK: /usr/local/share/dotnet/sdk/2.2.101/Sdks
+SDK Version: 2.2.101
+MSBuild SDKs: /Library/Frameworks/Mono.framework/Versions/5.16.0/lib/mono/msbuild/15.0/bin/Sdks
+
+=== Xamarin.Profiler ===
+
+Version: 1.6.4
+Location: /Applications/Xamarin Profiler.app/Contents/MacOS/Xamarin Profiler
+
+=== Updater ===
+
+Version: 11
+
+=== Apple Developer Tools ===
+
+Xcode 10.1 (14460.46)
+Build 10B61
+
+=== Xamarin.Mac ===
+
+Version: 5.2.1.15 (Visual Studio Community)
+Hash: d60abd198
+Branch: 
+Build date: 2019-02-01 12:23:30-0500
+
+=== Xamarin.iOS ===
+
+Version: 12.2.1.15 (Visual Studio Community)
+Hash: d60abd198
+Branch: d15-9
+Build date: 2019-02-01 12:23:29-0500
+
+=== Xamarin.Android ===
+
+Version: 9.1.8.0 (Visual Studio Community)
+Android SDK: /Users/vjlomocso/Library/Android/sdk
+	Supported Android versions:
+		8.0 (API level 26)
+		8.1 (API level 27)
+
+SDK Tools Version: 26.1.1
+SDK Platform Tools Version: 28.0.1
+SDK Build Tools Version: 28.0.3
+
+=== Microsoft Mobile OpenJDK ===
+
+Java SDK: /Users/vjlomocso/Library/Developer/Xamarin/jdk/microsoft_dist_openjdk_1.8.0.9
+1.8.0-9
+Android Designer EPL code available here:
+https://github.com/xamarin/AndroidDesigner.EPL
+
+=== Android Device Manager ===
+
+Version: 7.8.1.0
+Hash: 8924ea4a
+
+=== Xamarin Inspector ===
+
+Version: 1.4.3
+Hash: db27525
+Branch: 1.4-release
+Build date: Mon, 09 Jul 2018 21:20:18 GMT
+Client compatibility: 1
+
+=== Build Information ===
+
+Release ID: 708020001
+Git revision: 13e0e5b7e85ffe742957e6f204bab5c06c644f0e
+Build date: 2019-02-27 19:33:14+00
+Build branch: release-7.8
+Xamarin extensions: 23eaa7c9cdc9a3f55be7bb87b485a790ec82ef25
+
+=== Operating System ===
+
+Mac OS X 10.14.3
+Darwin 18.2.0 Darwin Kernel Version 18.2.0
+    Thu Dec 20 20:46:53 PST 2018
+    root:xnu-4903.241.1~1/RELEASE_X86_64 x86_64
