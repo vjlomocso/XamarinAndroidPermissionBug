@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_record">Start Record</string>
+    <string name="stop_record">Stop Record</string>
+    <string name="please_accept_message">Please accept the permission.</string>
+    <string name="app_name">MicrophonePermission</string>
+</resources>
